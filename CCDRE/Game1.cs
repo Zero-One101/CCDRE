@@ -27,7 +27,7 @@ namespace CCDRE
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-
+            Window.Title = "Candy Crushing Dodger Rainbow Extreme";
             base.Initialize();
         }
 
